@@ -83,4 +83,6 @@ header{
     display: grid;
     place-items: center;
     color: white;
+    border-bottom: 5px solid white;
+    padding: 1rem;
 }
