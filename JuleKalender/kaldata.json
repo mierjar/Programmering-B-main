@@ -1,0 +1,196 @@
+{
+    "days":[
+        {
+            "date":1,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/1.jpeg",
+            "animation": "dooropen"
+        },
+        {
+            "date":2,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":3,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/3.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":4,
+            "width": "200px",
+            "height": "200px",
+            "content": "redditapi",
+            "url": "https://www.reddit.com/r/dankmemes/comments/rf1vez/_/.json",
+            "animation": "dooropen"
+        },
+        {
+            "date":5,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":6,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":7,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":8,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":9,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":10,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":11,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":12,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":13,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":14,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":15,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":16,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":17,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":18,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":19,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":20,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":21,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":22,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":23,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        },
+        {
+            "date":24,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/2.jpg",
+            "animation": "dooropen"
+        }
+    ]
+}

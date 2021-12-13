@@ -1,0 +1,30 @@
+{
+    "days":[
+        {
+            "date":1,
+            "width": "200px",
+            "height": "200px",
+            "content": "image",
+            "url": "./assets/1.jpeg",
+            "animation": "slide"
+        },
+        {
+            "date":2,
+            "width": "200px",
+            "height": "200px",
+            "content": "youtube",
+            "embed": "<iframe width='560' height='315' src='https://www.youtube.com/embed/knozwRMUBP0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>,",
+            "animation": "slide"
+
+            
+        },
+        {
+            "date":3,
+            "width": "200px",
+            "height": "200px",
+            "content": "youtube",
+            "embed": "<iframe width='560' height='315' src='https://www.youtube.com/embed/knozwRMUBP0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>,",
+            "animation": "slide"
+        }  
+    ]
+}

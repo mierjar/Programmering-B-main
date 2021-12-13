@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+}
+
+main{
+    display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));
+    padding:2rem;
+    background-color: lightgrey;
+    gap: 4rem;
+    }
+
+.door{
+    background-color: pink;
+    background-size:cover;
+    position:relative;
+    }
+    
+    .locker{
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    background-image: linear-gradient(135deg, #FFB7C3, #EFBECA, #DFC4D1, #CECBD8, #BED1DF, #AED8E6);
+    display:grid;
+    place-items: center;
+    font-size:4rem;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.699);
+    z-index:5;
+    transition: all 0.5s ease-in-out;
+    border-style:double;
+    border-width: 1rem;
+    border-color: white;
+    transform-origin: left;
+    }
+
+
+@keyframes slide {
+    from{ 
+        width:100%; 
+        }
+    to{
+        width:0;
+    }
+}
+
+.slideanim{
+    animation: slide 3s forwards ease-in-out;
+}
+
+@keyframes spinanim {
+    from{
+        transform: translateX(200px);
+    }
+    to{
+        transform: translateX(0px);
+    }
+}
+
+.spinanim{
+
+}
+
+.dooropen{
+    transform-origin: left;
+    /*transition: all 3s;*/
+    /*animation: 3s forwards ease-in-out;*/
+    transform: perspective(1200px) translateZ(0px) translateX(0px) translateY(0px) rotateY(-105deg);
+    background-color: powderblue;
+}
+
+
+
+header{
+    background-color: lightgrey;
+    display: grid;
+    place-items: center;
+    color: white;
+}
